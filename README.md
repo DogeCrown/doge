@@ -1,7 +1,7 @@
 <h1 align="center">
-Dogecoin Core [DOGE, Ð]  
+Dogecoin Core [DOGE, 👑]
 <br/><br/>
-<img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
+<img src="https://github.com/didlie/doge/IMG_20211209_103447.jpg" alt="Doge" width="300"/>
 </h1>
 
 <div align="center">
