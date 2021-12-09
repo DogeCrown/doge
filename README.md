@@ -3,7 +3,13 @@ Doge Core [DOGE, 👑]
 <br/><br/>
 <img src="https://github.com/didlie/doge/IMG_20211209_103447.jpg" alt="Doge" width="300"/>
 </h1>
+This repository was created with the intention of instituting a hard fork of the Dogecoin Core application.
 
+The fork will re-appropriate dogecoin mined as empty blocks from the miner addresses to the following address: "[to be written when implemented]".
+The fork will preserve most other coin ownership at the existing addresses recorded on the Dogecoin blockchain
+The fork will rebrand the "dog" meme to make the coin friendlier for international use and more respectable.
+The fork will limit empty block mining by creating a delay of 55 seconds for the acceptance of empty blocks.
+The fork will reduce the block reward to 1000, and will reduce the block reward by 100 coins every 6 months, until it reaches a minimum of 100 coins.
 <div align="center">
 
 [![DogecoinBadge](https://img.shields.io/badge/Doge-Coin-yellow.svg)](https://dogecoin.com)
